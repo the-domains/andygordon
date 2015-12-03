@@ -1,0 +1,28 @@
+name: andygordon
+favicon: null
+layout_spectrum: 0.2163653806783259
+typography_spectrum: 0.6599385121371597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9131169028114527
+  lightness: 0.5609768747817725
+  saturation: 0.9347176048904657
+  rhythmicContrast: 0.06914004473946989
+purpose: []
